@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Software Enginner from Tokyo, Japan. 
+I have been working with MARS FLAG Corporation for 6 years. 
+I've experienced the research and development of the search engine of the corporate site.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have an interest in Search Eingine, Programming Language(Ruby/JavaScript/Go/Clojure), and AWS.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[goro.yanagi@gmail.com](mailto:goro.yanagi@gmail.com)
