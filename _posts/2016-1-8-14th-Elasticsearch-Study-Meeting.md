@@ -2,7 +2,9 @@
 layout: post
 title: 第 14 回 Elasticsearch 勉強 参加報告
 ---
-第 14 回 Elasticsearch 勉強会に参加してきました。
+
+[第 14 回 Elasticsearch 勉強会](https://elasticsearch.doorkeeper.jp/events/36330)
+に参加してきました。
 
 通常は利用例の発表が多いのですが、今回はそれだけでなく、機械学習や
 QueryParser 等、いつもより技術よりの話が聞けました。
