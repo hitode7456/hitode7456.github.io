@@ -182,6 +182,11 @@ Logstash に発信します。
 [Elasticsearchインデクシングパフォーマンスのための考慮事項](http://qiita.com/rjkuro/items/e79eec7ffb0511b7c678)
 も一緒に読むとより理解が深まりそうです。
 
+----
+# 関連リンク
+
+[第14回Elasticsearch勉強会を開催しました。 #elasticsearchjp](http://blog.johtani.info/blog/2016/01/08/14th-elasticcsearch-jp/)
+
 
 
 
